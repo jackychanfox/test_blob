@@ -1,0 +1,4 @@
+#Wed May 22 22:19:29 CST 2019
+base.0=/Volumes/Data/react-native/Car_ITAG(UK)/test_rn_fetch_blob/android/app/build/intermediates/transforms/dexMerger/devKernel/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

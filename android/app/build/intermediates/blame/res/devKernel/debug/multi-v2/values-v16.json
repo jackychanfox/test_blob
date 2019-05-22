@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Data/react-native/Car_ITAG(UK)/test_rn_fetch_blob/android/app/build/intermediates/incremental/mergeDevKernelDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/React-Native/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4971921fd21d8cfbb7eb1a5ecfb59950/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/React-Native/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fb8a98039770d4c7698e917a2ca136da/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

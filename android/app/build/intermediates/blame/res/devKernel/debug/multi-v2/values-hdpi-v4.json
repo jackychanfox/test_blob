@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Data/react-native/Car_ITAG(UK)/test_rn_fetch_blob/android/app/build/intermediates/incremental/mergeDevKernelDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/React-Native/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fb8a98039770d4c7698e917a2ca136da/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
